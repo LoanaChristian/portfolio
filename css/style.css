@@ -2,7 +2,7 @@
 
 
 
-/* ///////////////////////////////////////////////////////////////////// 
+/* /////////////////////////////////////////////////////////////////////
 // 03 - Preloader
 /////////////////////////////////////////////////////////////////////*/
 
@@ -453,14 +453,14 @@ table {
 }
 /* ==========================================================================Hero========================================================================== */
 .hero {
-	background: url('../img/header-bg.jpg') right bottom no-repeat;
+	background: url('../img/header-bg.png') right bottom no-repeat;
 	background-size: contain;
-	padding:110px 0 100px 0;
+	padding:110px 20pxs 100px 0;
 	height:auto;
 	background-color: #FBFBFB;
 }
 .hero h1 {
-	font-size: 120px;
+	font-size: 109px;
 	letter-spacing: -8px;
 	margin: 0;
 	font-weight: 600;
@@ -1208,7 +1208,7 @@ ul.slides li {
 
 	.btn-send {
 	    float: none;
-	
+
 	    margin-bottom: 80px;
 	}
 	.effects .img {
