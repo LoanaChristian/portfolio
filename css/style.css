@@ -1067,6 +1067,21 @@ ul.slides li {
 		background-position:50px 0;
       background: none;
 	}
+
+  #loa h1{
+    font-size: 5em;
+    padding-right: 150px;
+  }
+  #loa h3{
+    font-size: 0.9em;
+    margin-bottom: 200px;
+  }
+#info{
+  display: none;
+}
+  .hero{
+  background-size: 600px;
+  }
 	.swag {
 		background-attachment:scroll;
 	}
